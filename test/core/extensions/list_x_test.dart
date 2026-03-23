@@ -1,4 +1,4 @@
-import 'package:ulad_flutter_utils/src/core/extensions/list_extensions.dart';
+import 'package:ulad_flutter_utils/src/core/extensions/list_x.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

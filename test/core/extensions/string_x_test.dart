@@ -1,4 +1,6 @@
-import 'package:ulad_flutter_utils/src/core/extensions/string_extensions.dart';
+// ignore_for_file: unnecessary_nullable_for_final_variable_declarations
+
+import 'package:ulad_flutter_utils/src/core/extensions/string_x.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

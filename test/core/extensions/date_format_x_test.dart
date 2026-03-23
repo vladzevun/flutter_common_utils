@@ -1,4 +1,4 @@
-import 'package:ulad_flutter_utils/src/core/extensions/date_format_extensions.dart';
+import 'package:ulad_flutter_utils/src/core/extensions/date_format_x.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:intl/intl.dart';
 
