@@ -1,4 +1,4 @@
-# flutter_common_utils
+# ulad_flutter_utils
 
 A collection of reusable Flutter widgets, extensions, cubits and UI helpers.
 
@@ -8,9 +8,9 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_common_utils:
+  ulad_flutter_utils:
     git:
-      url: https://github.com/vladzevun/flutter_common_utils.git
+      url: https://github.com/vladzevun/ulad_flutter_utils.git
 ```
 
 ## What's inside

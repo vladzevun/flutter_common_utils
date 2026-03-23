@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_common_utils/flutter_common_utils.dart';
+import 'package:ulad_flutter_utils/ulad_flutter_utils.dart';
 
 class PrimarySRCV<T, CubitT extends SingleRequestCubit<T>>
     extends StatefulWidget {

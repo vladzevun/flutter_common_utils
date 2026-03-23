@@ -1,4 +1,4 @@
-import 'package:flutter_common_utils/flutter_common_utils.dart';
+import 'package:ulad_flutter_utils/ulad_flutter_utils.dart';
 
 class PaginationState<T> {
   final List<T> items;

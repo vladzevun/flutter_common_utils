@@ -1,5 +1,5 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_common_utils/flutter_common_utils.dart';
+import 'package:ulad_flutter_utils/ulad_flutter_utils.dart';
 
 abstract class PaginationCubit<T> extends Cubit<PaginationState<T>> {
   final int _pageSize;

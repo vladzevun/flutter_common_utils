@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_common_utils/flutter_common_utils.dart';
+import 'package:ulad_flutter_utils/ulad_flutter_utils.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class PaginationItemsV<T, C extends PaginationCubit<T>> extends StatefulWidget {

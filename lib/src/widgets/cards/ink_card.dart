@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_common_utils/flutter_common_utils.dart';
+import 'package:ulad_flutter_utils/ulad_flutter_utils.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class InkCard extends StatelessWidget {

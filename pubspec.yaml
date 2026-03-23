@@ -1,9 +1,9 @@
-name: flutter_common_utils
+name: ulad_flutter_utils
 description: Reusable Flutter widgets, extensions, dialogs and UI helpers.
 version: 0.1.0
-homepage: https://github.com/vladzevun/flutter_common_utils
-repository: https://github.com/vladzevun/flutter_common_utils
-issue_tracker: https://github.com/vladzevun/flutter_common_utils/issues
+homepage: https://github.com/vladzevun/ulad_flutter_utils
+repository: https://github.com/vladzevun/ulad_flutter_utils
+issue_tracker: https://github.com/vladzevun/ulad_flutter_utils/issues
 
 environment:
   sdk: ^3.9.2
