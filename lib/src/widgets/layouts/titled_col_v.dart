@@ -24,10 +24,9 @@ class TitledColV extends StatelessWidget {
       children: [
         Padding(
           padding: titlePadding ? EdgeInsets.only(left: 16.w) : EdgeInsets.zero,
-          //TODO: add .w
           child: title,
         ),
-        spacingV8,
+        spacing ?? spacingV8,
         value,
       ],
     );
@@ -47,6 +46,15 @@ class TitledColV extends StatelessWidget {
       title: Text(title, style: ts12w400),
       value: Text(value, style: ts16w400),
       spacing: spacingV4,
+    );
+  }
+
+  factory TitledColV.title({required String title, required Widget value}) {
+    return TitledColV(
+      titlePadding: false,
+      title: Text(title, style: ts14w500),
+      value: value,
+      spacing: SizedBox(height: 6.h),
     );
   }
 }
